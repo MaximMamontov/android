@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+
+    <resources>
+
+    <string name="app_name">Напоминания</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="action_settings">Настройки</string>
+
+    <string name="title_activity_create_note">Создать</string>
+
+    <string name="title">Test</string>
+
+    <string name="detail">Small Text</string>
+
+
+    <string-array name="note_type">
+
+    <item>Простая</item>
+
+    <item>Стандартная</item>
+
+    <item>Со звонком</item>
+    <item>С уведомлением</item>
+
+</string-array>
+
+    <string name="title_activity_information">Инфо</string>
+
+    <string name="title_activity_edit__note">Изменить</string>
+
+    <string name="New">Создать</string>
+
+    <string name="back">Назад</string>
+
+    <string name="save">Сохранить</string>
+
+    <string name="edit">Изменить</string>
+
+    <string name="discard">Удалить</string>
+
+    <string name="note_type_text">Выберите:</string>
+
+    <string name="title_activity_alert">Уведомление</string>
+
+    <string name="Not_Set">Не выбрано</string>
+
+    <string name="hour_minutes">HH:mm</string>
+
+    <string name="alert_title">title</string>
+    <string name="set_notify">Уведомление в окне</string>
+    <string name="added_alert">An Alert can be added</string>
+    <string name="notify">You can recieve notifications</string>
+    <string name="rodId">rowID</string>
+
+    <string name="Alertnotifty">"Уведомление: "</string>
+
+    <string name="alerttitle">title</string>
+
+    <string name="delete_title">Удалить выбранное уведомление</string>
+
+    <string name="delete_message">Вы уверены?</string>
+
+    <string name="yes">Да</string>
+
+    <string name="no">Нет</string>
+
+    <string name="rodID">rowID</string>
+
+    <string name="rowID">rowID</string>
+
+    <string name="row_id">rowID</string>
+
+    <string name="intent_row_id">rowID</string>
+
+    <string name="row_id_long">rowID</string>
+
+    <string name="alarm_active">An Alert can be added!</string>
+
+    <string name="row_id_log">rowID</string>
+
+    <string name="title_hint">Название</string>
+
+    <string name="hint_description">Описание</string>
+
+    <string name="set_alert">Напоминание</string>
+
+    <string name="textview_date">Выберите дату</string>
+
+    <string name="txt_time">Выберите время:</string>
+
+    <string name="txt_edit_hint">Введите название</string>
+
+    <string name="detail_hint">Добавьте описание</string>
+
+    <string name="type_note">Тип заметки:</string>
+
+    <string name="view_title">Large Text</string>
+
+    <string name="view_detail">Medium Text</string>
+
+    <string name="note_type">Medium Text</string>
+
+    <string name="type_list_entry">Small Text</string>
+
+    <string name="time_vie">testtime</string>
+
+    <string name="alarmtext">Alert: </string>
+
+    <string name="dateformate">dd/MM/yyyy</string>
+
+    <string name="Not_Set_Alert">Not Set</string>
+
+    <string name="ok">Ok</string>
+
+    <string name="title_msg">title</string>
+
+    <string name="titttle">title</string>
+    <string name="alert_content">alert_content</string>
+
+</resources>
